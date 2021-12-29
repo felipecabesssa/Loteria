@@ -27,6 +27,11 @@
     max-height: 300px;
 }
 
+.numeros .badge-pill {
+    min-width: 55px;
+    margin-bottom: 3px;
+}
+
 @media (max-width: 576px) { 
 
     .form-check{
